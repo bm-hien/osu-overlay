@@ -1,0 +1,13 @@
+{
+	"background" : "black",
+	"l_b" : 0,
+	"l_g" : 140,
+	"l_r" : 255,
+	"left_box" : "combo",
+	"r_b" : 255,
+	"r_g" : 191,
+	"r_r" : 0,
+	"right_box" : "pp",
+	"simple" : "off",
+	"subtitle" : "mapper"
+}
